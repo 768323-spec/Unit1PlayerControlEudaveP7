@@ -1,16 +1,16 @@
 using System.Collections;
-using Systems.Collections.Generic;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBBehaviour
+public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update 
-    void Update()
+    // Start is called before the first frame update
+    void Start()
     {
 
     }
 
-    // Update is called once per frame
+    /// Update is called once per frame
     void Update()
     {
         // We'll move the vehicle forward
